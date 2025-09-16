@@ -213,7 +213,7 @@ MCP allows Claude Code to interact with various tools and services.
 
 Claude will fetch the rules:
 
-    ```
+```
     * Fetch(https://www.unorules.com/)...
     Received 123.8KB (200 OK)
     * Write(file_path: uno_rules.txt)_
@@ -223,7 +223,7 @@ Claude will fetch the rules:
     // FOR EACH player:
     //   deal 7 cards
     ...
-    ```
+```
 
 ### Using `CLAUDE.md` Files
 
